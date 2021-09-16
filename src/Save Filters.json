@@ -1,0 +1,32 @@
+{
+    "filters": [
+        {
+            "name": "Text Files (*.txt)",
+
+            "extensions": [
+                "txt"
+            ]
+        },
+        {
+            "name": "HTML (*.html)",
+
+            "extensions": [
+                "html"
+            ]
+        },
+        {
+            "name": "CSS (*.css)",
+
+            "extensions": [
+                "css"
+            ]
+        },
+        {
+            "name": "All Files (*.*)",
+
+            "extensions": [
+                "*"
+            ]
+        }
+    ]
+}

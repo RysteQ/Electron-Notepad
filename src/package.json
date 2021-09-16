@@ -1,0 +1,14 @@
+{
+  "name": "electron-notepad",
+  "version": "1.0.0",
+  "description": "A notepad application made using electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "RysteQ",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^14.0.0"
+  }
+}
